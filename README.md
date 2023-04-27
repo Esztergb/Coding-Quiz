@@ -26,18 +26,18 @@ THEN I can save my initials and my score
 
 ## Description
 
-TBD
+This is a basic quiz on JavaScript. 
 
 ## Installation
 
-The link to deployed application is: https://esztergb.github.io/My-Portfolio/
+The link to deployed application is: https://esztergb.github.io/Coding-Quiz/
 GitHub Link: https://github.com/Esztergb/Coding-Quiz.git
 
 ![ScreenShot](assets/images/screenshotfull.png)
 
 ## Usage
 
-This project was created to incorporate informations shared on basic HTML and CSS functvions in the second week of the Bootcamp
+TBD
 
 ## Credits
 
@@ -45,6 +45,12 @@ Thank you for tips and sugestions from Bootcamp instructors and classmates.
 I have used https://www.w3schools.com/ and https://www.stackoverflow.com to research information.
 I have reviewed you tube videos from Ania Kubow to help me with this project. 
 
+Quiz questions were pulled from the following sources:
+https://data-flair.training/blogs/javascript-quiz/
+https://www.w3schools.com/js/js_quiz.asp
+
+
+
 ## License
 
-N/A - Bootcamp Challange 2
+N/A - Bootcamp Challange 4
