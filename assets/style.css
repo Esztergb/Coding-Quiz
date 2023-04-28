@@ -76,3 +76,6 @@ button:focus{
   background-color: var(--green);
 }
 
+.timer {
+  font-weight: bold;
+}

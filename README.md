@@ -33,7 +33,7 @@ This is a basic quiz on JavaScript.
 The link to deployed application is: https://esztergb.github.io/Coding-Quiz/
 GitHub Link: https://github.com/Esztergb/Coding-Quiz.git
 
-![ScreenShot](assets/images/screenshotfull.png)
+
 
 ## Usage
 

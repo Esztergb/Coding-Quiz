@@ -112,7 +112,7 @@ loadQuiz()
 
 //count down timer:
 var timeLeft = 60;
-var elem = document.getElementById('Timer');
+var elem = document.getElementById('timer');
 
 var timerId = setInterval(countdown, 1000);
 
@@ -166,3 +166,6 @@ submitBtn.addEventListener('click', () => {
        }
     }
 })
+
+//save "score/quizdata.lenght" to local storage
+//display "score/quizdata.lenght" on start.html
